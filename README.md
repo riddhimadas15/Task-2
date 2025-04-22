@@ -1,1 +1,1 @@
-# Task-2
+The dataset (sample.csv) was first cleaned to standardize the date formats using clean.py python code. The dataset was loaded onto the PowerBI software. It was then used to create a visual representation, the screenshot for which has been attached in task_2.pdf file, along with the explanation. 
